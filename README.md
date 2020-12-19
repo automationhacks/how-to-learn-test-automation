@@ -6,19 +6,21 @@ and help when first breaking into a specific focus area within the field.
 
 ## Our Goal
 
-This repository hopes/aims to be a community driven reference guide for that goal with curated list
-of resources
+This repository hopes/aims to be a community driven reference guide towards that goal with curated list
+of resources on how to learn test automation effectively.
 
-> What are some of the blog posts, Newsletters, YouTube videos, Courses, Podcasts that are
-> insightful, stand out and taught you a unique concept within Test automation? Let's put that here
-> and file it under the required category.
+The main problem we are trying to solve is:
+
+> What are some of the blog posts, newsletters, YouTube videos, courses, podcasts that are
+> insightful, stand out and taught you a unique concept within Test automation? 
+
+Let's put that here and file it under the appropriate category, so that the entire community has a reference to that.
 
 ## Categories
 
 ### Tech
 
-Focussed on a series of resources to learn about these vast areas on how to actually go about the
-technical implementations
+Focussed on the technical implementations, tools, libraries, languages and approaches.
 
 - [Web](tech/web.md)
 - [Mobile](tech/mobile.md)
@@ -30,7 +32,7 @@ technical implementations
 ### Community
 
 Resources on the larger Testing and automation community which help to support, while also forming
-the basis for providing a lot of this content and from where we all learn 🙏
+the basis for providing a lot of this content in the first place 🙏
 
 - [Leadership](community/leadership.md)
 - [People to follow](community/people_to_follow.md)
