@@ -33,6 +33,6 @@ Resources on the larger Testing and automation community which help to support, 
 the basis for providing a lot of this content and from where we all learn 🙏
 
 - [Leadership](community/leadership.md)
-- [Influencers](community/people_to_follow.md)
+- [People to follow](community/people_to_follow.md)
 - [Community](community/community.md)
 - [Podcasts](community/podcasts.md)
