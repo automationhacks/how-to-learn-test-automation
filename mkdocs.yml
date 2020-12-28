@@ -4,7 +4,7 @@ theme:
   palette:
     primary: teal
   font:
-    code: Menlo
+    code: Jetbrains Mono
   features:
     - navigation.tabs
 google_analytics:
