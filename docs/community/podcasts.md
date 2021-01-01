@@ -7,3 +7,4 @@ Lot of awesome podcasts can be found on [Testingpodcast.com](https://testingpodc
 - [Test Guild](https://testguild.com/podcast/)
 - [Test and Code](https://testandcode.com/)
 - [Evil Tester show](https://www.eviltester.com/show/)
+- [Abstracta Software Testing Podcast](https://abstracta.us/software-testing-podcast)
