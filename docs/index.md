@@ -1,4 +1,4 @@
-# Welcome to "How to learn test automation"
+# Welcome
 
 Test automation is huge, it is done for different layers/stacks of the application. While everyone
 learns based on their unique context and environments, we could all use a bit of initial guidance
