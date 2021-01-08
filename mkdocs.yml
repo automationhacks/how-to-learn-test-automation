@@ -3,8 +3,6 @@ theme:
   name: material
   palette:
     primary: teal
-  font:
-    code: Menlo
   features:
     - navigation.tabs
 google_analytics:
