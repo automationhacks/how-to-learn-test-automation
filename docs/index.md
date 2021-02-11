@@ -25,7 +25,7 @@ technical implementations
 - [Backend](tech/backend.md)
 - [Accessibility](tech/accessibility.md)
 - [Security](tech/security.md)
-- [Test runners](tech/test_runners.md)
+- [Test runners](tech/test-runners.md)
 
 ### Community
 
@@ -33,6 +33,6 @@ Resources on the larger Testing and automation community which help to support, 
 the basis for providing a lot of this content and from where we all learn 🙏
 
 - [Leadership](community/leadership.md)
-- [People to follow](community/people_to_follow.md)
+- [People to follow](community/people-to-follow.md)
 - [Community](community/community.md)
 - [Podcasts](community/podcasts.md)
