@@ -16,6 +16,11 @@ Lot of awesome podcasts can be found on [Testingpodcast.com](https://testingpodc
 - [Software engineering radio](https://www.se-radio.net/)
 - [Stack overflow podcast](https://stackoverflow.blog/podcast/)
 - [Weekly Dev Tips by Steve Smith (@ardalis)](https://www.weeklydevtips.com/)
+- [Google cloud platform podcast](https://www.gcppodcast.com/)
+
+## On Technical leadership
+
+- [Tech lead journal By Henry Suryawirawan](https://techleadjournal.dev/)
 
 ## On Languages
 
