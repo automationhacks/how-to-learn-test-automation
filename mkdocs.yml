@@ -2,7 +2,7 @@ site_name: How to learn test automation
 theme:
   name: material
   font:
-    text: Inter
+    text: Lato
   palette:
     primary: teal
   features:
