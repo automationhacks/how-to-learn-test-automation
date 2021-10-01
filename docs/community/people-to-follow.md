@@ -7,6 +7,7 @@ community. There are many more out there, please raise a PR and add them here.
 
 - Angie Jones [Site](https://angiejones.tech/) [Twitter](https://twitter.com/techgirl1908)
 - Alan Richardson [Site](https://www.eviltester.com/) [Twitter](https://twitter.com/eviltester)
+- Andy Knight [Site](https://automationpanda.com/) [Twitter](https://twitter.com/AutomationPanda)
 - Joe Colantonio [Site](https://testguild.com/) [Twitter](https://twitter.com/joecolantonio)
 - Maaret Pyhäjärvi [Site](https://maaretp.com/) [Twitter](https://twitter.com/maaretp)
 - Alan Page [Site](https://angryweasel.com/blog/) [Twitter](https://twitter.com/alanpage)
