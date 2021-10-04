@@ -8,4 +8,5 @@ Here are some resources to start learning about API testing and automation
 - [What is REST?](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 - [Rest API Quick Tips](https://www.restapitutorial.com/lessons/restquicktips.html)
 - [Post Man Tutorial ](https://youtube.com/playlist?list=PL6iUkDSEH9SvsgM4zyFrTnaewN65NZHAG)
+- [Api Testing With Python](https://www.youtube.com/watch?v=YeAWDfxqD7g)
 
