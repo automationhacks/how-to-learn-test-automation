@@ -19,3 +19,21 @@ reference to that.
 
 The site is hosted on
 [automationhacks.io/how-to-learn-test-automation/](https://automationhacks.io/how-to-learn-test-automation/)
+
+## How to contribute
+
+Refer to [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Build locally
+
+If you want to build the site locally, clone this repo and then execute below commands
+
+> Note: You might want to use
+> [pipenv to setup python dependencies](https://automationhacks.io/2020/07/12/how-to-manage-your-python-virtualenvs-with-pipenv/)
+
+```zsh
+# activate pipenv
+pipenv install
+# View from local
+mkdocs serve
+```
