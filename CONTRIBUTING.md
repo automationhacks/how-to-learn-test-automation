@@ -27,3 +27,18 @@ Backend automation. Please add relevant links and follow the same workflow
 
 Please refer to this guide on
 [Github](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+
+Here is an example flow:
+
+```zsh
+# Checkout a new branch
+git checkout -b <branch_name>
+# Add changed files into staging
+git add .
+# Commit your files with relevant message
+git commit -m "<commit_message>"
+# Push files to remote
+git push --set-upstream origin <your_branch_name>
+# Click on the provided link to create a pull request on remote
+# Example PR: https://github.com/automationhacks/how-to-learn-test-automation/pull/8
+```
