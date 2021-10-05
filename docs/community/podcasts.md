@@ -11,6 +11,7 @@ Lot of awesome podcasts can be found on [Testingpodcast.com](https://testingpodc
 - [Evil Tester show](https://www.eviltester.com/show/)
 - [Abstracta Software Testing Podcast](https://abstracta.us/software-testing-podcast)
 
+
 ## On Software engineering
 
 - [Software engineering radio](https://www.se-radio.net/)
@@ -21,6 +22,10 @@ Lot of awesome podcasts can be found on [Testingpodcast.com](https://testingpodc
 ## On Technical leadership
 
 - [Tech lead journal By Henry Suryawirawan](https://techleadjournal.dev/)
+
+## On Digital landscape/devops
+
+- [The-idealcast-podcast with Gene Kim] (https://itrevolution.com/the-idealcast-podcast/)
 
 ## On Languages
 
