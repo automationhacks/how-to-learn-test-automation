@@ -13,4 +13,4 @@ Here are some slack channels that you can join
 - [PACT foundation](https://slack.pact.io/)
 - [Kotlin](https://kotlinlang.org/community/)
 - [Cypress](https://gitter.im/cypress-io/cypress)
-- [Postman] (https://community.postman.com/)
+- [Postman](https://community.postman.com/)
