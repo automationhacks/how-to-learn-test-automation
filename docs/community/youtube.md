@@ -1,0 +1,25 @@
+# Youtube Channels
+
+Listing youtube channels that are helping the community in providing/sharing knowledge about automation testing
+
+- [Naveen Automation Labs](https://www.youtube.com/c/NaveenAutomationLabs)
+- [Rahul Shetty Academy](https://www.youtube.com/c/RahulShettyAcademy)
+- [SDET Automation Techie](https://www.youtube.com/c/pavanoltraining)
+- [Mukesh Otwani](https://www.youtube.com/c/Mukeshotwani)
+- [QAFox](https://www.youtube.com/c/QAFox)
+- [ExecuteAutomation](https://www.youtube.com/c/ExecuteAutomation)
+- [SoftwaretestingbyMKT](https://www.youtube.com/channel/UCKliIabx-RsHYTqjOiYegSg)
+- [RDAutomationLearning](https://www.youtube.com/channel/UC_0lWsDQPbATkXWdZTS8sfQ)
+- [TheTestingAcademy](https://www.youtube.com/user/TheTestingAcademy)
+- [Automation Step by Step](https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg)
+- [Edureka Selenium Course](https://www.youtube.com/watch?v=FRn5J31eAMw)
+- [EvilTester](https://www.youtube.com/user/EviltesterVideos)
+- [GC Reddy](https://www.youtube.com/user/gcreddy7)
+- [FunDooTesters](https://www.youtube.com/c/FunDooTesters)
+- [Software Testing Materials](https://www.youtube.com/channel/UCIJGI_3XgnfUaSNQD8D2IMQ)
+- [Software and Testing Training](https://www.youtube.com/user/SoftwareTestingSpace/featured)
+- [Software Testing Help](https://www.youtube.com/user/shindevijaykr)
+- [Letcode with Kaushik](https://www.youtube.com/c/LetCode)
+- [Helping Testers](https://www.youtube.com/channel/UCVOCoXYsZtLyr56Z3NZT2hQ)
+- [TestGuild Automation Testing](https://www.youtube.com/user/JoeColantonio)
+- [Test-O-Blog](https://www.youtube.com/channel/UCnKJ63mrfDFOOG_n2hLu7PQ)
