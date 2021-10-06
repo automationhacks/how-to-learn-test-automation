@@ -25,7 +25,7 @@ Lot of awesome podcasts can be found on [Testingpodcast.com](https://testingpodc
 
 ## On Digital landscape/devops
 
-- [The-idealcast-podcast with Gene Kim] (https://itrevolution.com/the-idealcast-podcast/)
+- [The-idealcast-podcast with Gene Kim](https://itrevolution.com/the-idealcast-podcast/)
 
 ## On Languages
 
