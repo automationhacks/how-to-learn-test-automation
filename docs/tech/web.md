@@ -26,5 +26,6 @@ Here are some resources to start UI Automation
 - [Katalon](https://www.katalon.com/)
 - [Functionize](https://www.functionize.com/)
 - [Usetrace](https://usetrace.com/)
+- [agent-qa](https://vostride.com/) — Natural-language UI testing with persistent memidex memory, validated self-improvement, and reviewable run evidence. [Quickstart](https://vostride.com/docs/agent-qa/quickstart).
 
 
